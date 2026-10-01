@@ -1,6 +1,9 @@
 {
   "name": "kruzhok",
-  "owner": { "name": "Nav1gante" },
+  "description": "Скиллы кружка вайбкодеров",
+  "owner": {
+    "name": "Nav1gante"
+  },
   "plugins": [
     {
       "name": "kruzhok",
