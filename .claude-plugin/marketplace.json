@@ -1,0 +1,11 @@
+{
+  "name": "kruzhok",
+  "owner": { "name": "Nav1gante" },
+  "plugins": [
+    {
+      "name": "kruzhok",
+      "source": "./",
+      "description": "Скиллы кружка вайбкодеров: интервью, бриф, сборка HTML-страниц"
+    }
+  ]
+}
